@@ -123,7 +123,3 @@ To build a release APK, use `flutter build apk --release`.
 - Analytics for frequent late returners
 
 ---
-
-## License
-
-This project was built as a college mini-project. Add your preferred license here.
